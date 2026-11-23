@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**Matt091088/Matt091088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Matt! 👋
 
-Here are some ideas to get you started:
+### Web Developer | React | JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about building modern and user-friendly web applications.
+
+👨‍💻 About Me
+
+I'm a web development student focused on building
+modern web applications and improving my programming skills.
+
+I enjoy working with frontend technologies, especially React,
+and I'm currently expanding my knowledge of full-stack development.
+
+I'm looking for an opportunity to grow as a Junior Web Developer.
