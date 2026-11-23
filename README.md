@@ -8,11 +8,13 @@ I'm passionate about building modern and user-friendly web applications.
 
 ## 👨‍💻 About Me
 
-I'm a web development student focused on building modern web applications and improving my programming skills.
+I'm a Web Developer focused on building modern, responsive web applications and creating practical solutions through code.
 
-I enjoy working with frontend technologies, especially React, and I'm currently expanding my knowledge of full-stack development.
+I enjoy frontend development, especially working with React, JavaScript, and CSS. I've developed real-world projects, including an e-commerce platform and a hotel website, while continuing to expand my knowledge of full-stack development.
 
-I'm looking for an opportunity to grow as a Junior Web Developer.
+I'm currently pursuing a Software Development degree path through **Brigham Young University–Idaho (BYU-Idaho)** and completing professional training in web development at **RollingCode School**, a programming school with a practical, project-oriented approach and a focus on preparing students for the IT industry.
+
+I'm looking for an opportunity as a **Junior Web Developer** where I can contribute my skills, keep learning, and grow as part of a development team.
 
 ## 🎓 Education & Certifications
 
@@ -33,9 +35,12 @@ I'm looking for an opportunity to grow as a Junior Web Developer.
 - **Databases:** MongoDB
 - **Additional Training:** AI tools and practical projects
 
-### Languages
-- Spanish — Native
-- English — C1 Certified
+## 🌎 Languages & International Experience
+
+- **Spanish:** Native
+- **English:** C1 – Advanced (certified)
+- **United States:** Two years of service in an English-speaking environment.
+- **Australia:** One year of international experience.
 
 ## 💻 Technical Skills
 
